@@ -1,9 +1,5 @@
 [
   {
-    "package": "cleanNLP",
-    "oncran": true
-  },
-  {
     "package": "ggimg",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "sotu",
+    "oncran": true
+  },
+  {
+    "package": "cleanNLP",
     "oncran": true
   }
 ]
