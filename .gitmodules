@@ -8,6 +8,16 @@
 	url = https://github.com/statsmaths/cleannlp
 	shallow = true
 	registered = true
+[submodule "coreNLP"]
+	path = coreNLP
+	url = https://github.com/cran/coreNLP
+	shallow = true
+	registered = true
+[submodule "ctrialsgov"]
+	path = ctrialsgov
+	url = https://github.com/cran/ctrialsgov
+	shallow = true
+	registered = true
 [submodule "ggimg"]
 	path = ggimg
 	url = https://github.com/statsmaths/ggimg
@@ -16,6 +26,11 @@
 [submodule "kerasR"]
 	path = kerasR
 	url = https://github.com/statsmaths/kerasr
+	shallow = true
+	registered = true
+[submodule "leaderCluster"]
+	path = leaderCluster
+	url = https://github.com/cran/leaderCluster
 	shallow = true
 	registered = true
 [submodule "sotu"]
