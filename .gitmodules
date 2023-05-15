@@ -23,11 +23,6 @@
 	url = https://github.com/statsmaths/ggimg
 	shallow = true
 	registered = true
-[submodule "kerasR"]
-	path = kerasR
-	url = https://github.com/statsmaths/kerasr
-	shallow = true
-	registered = true
 [submodule "leaderCluster"]
 	path = leaderCluster
 	url = https://github.com/cran/leaderCluster
