@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cleanNLP"]
 	path = cleanNLP
 	url = https://github.com/statsmaths/cleannlp
-	shallow = true
-	registered = true
 [submodule "coreNLP"]
 	path = coreNLP
 	url = https://github.com/cran/coreNLP
-	shallow = true
-	registered = true
 [submodule "ctrialsgov"]
 	path = ctrialsgov
 	url = https://github.com/cran/ctrialsgov
-	shallow = true
-	registered = true
 [submodule "ggimg"]
 	path = ggimg
 	url = https://github.com/statsmaths/ggimg
-	shallow = true
-	registered = true
 [submodule "leaderCluster"]
 	path = leaderCluster
 	url = https://github.com/cran/leaderCluster
-	shallow = true
-	registered = true
 [submodule "sotu"]
 	path = sotu
 	url = https://github.com/statsmaths/sotu
-	shallow = true
-	registered = true
