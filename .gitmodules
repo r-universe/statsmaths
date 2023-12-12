@@ -16,7 +16,7 @@
 	url = https://github.com/statsmaths/ggimg
 [submodule "leaderCluster"]
 	path = leaderCluster
-	url = https://github.com/cran/leaderCluster
+	url = https://github.com/statsmaths/leadercluster
 [submodule "sotu"]
 	path = sotu
 	url = https://github.com/statsmaths/sotu
